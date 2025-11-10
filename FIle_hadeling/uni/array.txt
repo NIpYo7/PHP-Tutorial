@@ -1,0 +1,15 @@
+Orginal array : Array
+(
+    [0] => 1
+    [1] => 2
+    [2] => Array
+        (
+            [0] => 5
+            [1] => 10
+            [2] => 15
+            [3] => 20
+        )
+
+    [3] => 4
+)
+<br>Sum of the nested array : 50<br>
